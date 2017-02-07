@@ -1,0 +1,12 @@
+#pl-1794 .footer_social_media_icons .panel-grid-cell{
+    float: left;
+    width: 16.666%;
+}
+.page_content_footer #pgc-1794-1-0 .panel-grid-cell{
+    width: 33.3%;
+    float: left;
+}
+.button_wrapper_center {
+    display: table;
+    margin: 0px auto;
+}

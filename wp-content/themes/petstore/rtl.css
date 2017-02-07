@@ -1,0 +1,84 @@
+body{
+    direction: rtl;
+  unicode-bidi: embed;
+}
+.one_half{
+	float: right!important;
+}
+.one_half_last{
+	float: left !important;
+	text-align: left;
+}
+.logo_left {
+    float: right;
+}
+.conatact_details {
+    float: left;
+}
+.menu > ul  > li{
+	float: right;
+}
+.owl-stage-outer{
+	direction: ltr;
+}
+.horizontal_tabs > ul > li{
+	float: right;
+}
+#pg-239-0 .panel-grid-cell{
+	float: right !important;
+}
+.iconbox_left .alignleft .description h3{
+	text-align: right !important;
+}
+.sub_header .page_title_wrapper {
+    float: right!important;
+    text-align: right!important;
+}
+.kaya_title_left .row_separator.alignleft{
+	float: right !important;
+}
+.kaya_title_left h2{
+	text-align: right !important;
+}
+.iconbox_left .description p{
+	text-align: right !important;
+}
+.kaya_title_left h3{
+	text-align: right !important;
+}
+.woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count {
+    float: right !important;
+}
+.woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering {
+    float: left !important;
+}
+.iconbox_left .alignleft{
+	float: right;
+    margin: 0 0 15px 20px;
+}
+.iconbox_left .description h3{
+	text-align: right !important;
+}
+#pg-299-1 .panel-grid-cell{
+	float: right !important;
+}
+#pg-299-3 .panel-grid-cell{
+	float: right !important;
+}
+.custom_title .kaya_title_left p{
+	text-align: right !important;
+}
+.widget_container{
+	text-align: right !important;
+}
+#sidebar .widget_container ul li {
+    background-position: right 20px;
+    padding-right: 20px;
+}
+#sidebar .widget_container ul li:first-child{
+	background-position: right 8px;
+    padding-right: 20px;
+}
+.kaya_title_left h1{
+	text-align: right !important;
+}

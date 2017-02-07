@@ -1,0 +1,288 @@
+/* Widget Container
+----------------------------------------------------------------------------------------------------*/
+.widget_container{
+    height: auto;
+    margin-bottom: 40px!important;
+    overflow: hidden;
+    text-align: left;
+	
+}
+#sidebar .widget_container.widget_kaya-title{
+  margin-bottom: 0!important;
+}
+#sidebar  .widget_container{
+	width:100%;
+ }
+footer h1, footer h2, footer h3 {
+    margin-bottom: 30px !important;
+}
+.right_sidebar .page_sidebar {
+    position: relative;
+}
+.left_sidebar .page_sidebar , .sidebar_left .page_sidebar{
+    position: relative;
+}
+
+#sidebar  .widget_container ul{
+  margin: 0;
+ }
+.footer_widgets .widget_container{
+	margin-bottom:0px;
+} 
+.footer_widgets_first .widget_container{
+	border-left:none;
+	padding-left:0px;
+}
+.footer_widgets_column .textwidget:last-child {
+    margin-bottom: 0;
+}
+.one_third  .footer_widgets_column div{
+  margin-bottom: 20px;
+}
+
+.footer_widgets_column {
+	position:relative;
+}
+.textwidget p:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.widget_container h3 {
+    margin-bottom: 30px!important;
+}
+.widget_container ul li a{
+  color: #8f8f8f;
+}
+.widget_container .recent_blog_post ul li a {
+    font-size: 14px;
+}
+.widget_container .recent_blog_post li {
+  padding-bottom:20px!important;
+  margin-bottom: 20px!important;
+}
+.widget_container .recent_blog_post li:last-child {
+    padding-bottom: 0 !important;
+    margin-bottom: 0px!important;
+}
+
+#sidebar .one_half, #sidebar .one_half_last {
+    float: inherit;
+    width: 97%;
+}
+#sidebar .fullwidth {
+    float: inherit;
+    width: 94%;
+}
+#sidebar .portfolio_title h3 {
+    margin-bottom: 0 !important;
+}
+/* sidebar calander widget styles
+----------------------------------------------------------------------------------------------------*/
+#sidebar .widget_calendar table{
+  width: 100%;
+}
+#calendar_wrap{
+
+}
+#sidebar .widget_calendar table caption{
+    background-color: #F54325;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 12px 0;
+    text-align: center;
+}
+.cal-blog{
+  background-color: #F54325;
+}
+
+#sidebar .widget_calendar table td{
+  padding: 8px 0;
+}
+#sidebar .widget_calendar table td a, #sidebar .widget_calendar table td a:visited{
+
+}
+#sidebar .widget_calendar table td a:hover{
+	color:#000;
+	text-decoration:none;
+}
+#sidebar .widget_calendar table th{
+	background-color:#dedede;
+	padding:5px;
+}
+.widget_container em{
+  display: block;
+  padding-bottom: 5px;
+}
+
+#sidebar ul li {
+    padding: 12px 0;
+}
+#sidebar ul li a:hover {
+    padding-left: 10px;
+}
+
+#sidebar .widget_container .custom_list_box ul li {
+    padding: 12px 0 12px 25px !important;
+}
+
+#sidebar .recent_blog_post li a:hover, #sidebar .Portfolio_gallery ul li a:hover, #sidebar .product_list_widget ul li a:hover, #sidebar .widget_kaya-gallery-images-boxes ul li a:hover{
+  padding-left: 0!important;
+}
+#sidebar ul li a {
+    -o-transition:all 0.5s ease-in-out 0s;
+  -ms-transition:all 0.5s ease-in-out 0s;
+  -moz-transition:all 0.5s ease-in-out 0s;
+  -webkit-transition:all 0.5s ease-in-out 0s;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+/* sidebar menu pages
+----------------------------------------------------------------------------------------------------*/
+.widget_pages ul.children{
+  margin-left:20px;
+}
+.widget_pages ul.children li:first-child {
+  border-top: 1px solid #E4DFD6;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+                 
+/*  Globle #sidebar widget style
+---------------------------------------------------------------------------------------------------*/
+.widget_container ul li{
+    border-bottom: 1px solid rgba(127, 127, 127, 0.2);
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 8px;
+    padding-right: 0;
+    padding-top: 8px;
+}
+#sidebar .widget_container ul li {
+    background-image: url("../images/list_arrow.png");
+    background-position: left 20px;
+    background-repeat: no-repeat;
+    padding-left: 25px !important;
+}
+
+#sidebar .widget_container ul li:first-child {
+    background-position: left 8px;
+}
+#sidebar .widget_container .custom_list_box ul li:first-child {
+    background-position: left 16px !important;
+}
+
+#sidebar ul.product_list_widget li {
+    padding-left: 0 !important;
+}
+
+.widget_container ul li:first-child {
+    padding-top: 0!important;
+}
+.widget_container ul li:last-child {
+    border-bottom: 0 none;
+}
+.widget_container ul li:first-child, .widget_woocommerce_product_categories ul li:first-child {
+    background-position: 0 8px;
+    padding-top: 0 !important;
+}
+.widget_container:last-child,
+.widget_container ul, .widget_container ul li:last-child, .widget_categoryposts li:last-child
+{
+	margin-bottom:0px!important;
+	border-bottom: 0 none;
+	padding-bottom:0;
+}
+.widget_categoryposts ul li a, .widget_recent_comments ul li a,.recent_blog_post ul li
+.widget_taxpost ul li a, .widget_cat_post_testimonial ul li a,
+.widget_popularposts ul li a, .widget_cat_post_news ul li a, .widget_portfolio_gallery ul li a, ul.portfolio_items li, ul.porfolio_items li, ul#widget_sudo_slider li, .widget_container #sudo_slider_wrapper ul li, #sidebar .widget_kaya-gallery-images-boxes ul li{
+  background: none!important;
+  padding-left: 0!important;
+
+}
+#sidebar .widget_container .recent_blog_post ul li, #sidebar  #bx_slider_wrapper ul li, #sidebar .product_list_widget ul li,  #sidebar .widget_kaya-gallery-images-boxes ul li{
+  background: none!important;
+  padding-left: 0!important;
+}
+.page_sidebar .widget_popularposts ul li, .widget_recentposts ul li{
+  margin-bottom:20px!important;
+}
+
+.widget_container ul{
+	margin-left:0px;
+}
+.widget_taxpost li a img{
+	float:left;
+	display:block;
+	margin-right:20px;
+	margin-bottom:4px;
+}
+
+.taxpost_content{
+	display:block;
+	overflow:hidden;
+}
+.footer_widgets_column  .textwidget{
+  margin-bottom:30px;
+}
+footer .widget_kaya-recent-blog-post-widget h4{
+    font-size: 14px;
+    margin-bottom: 0;
+}
+/* Tag Cloud 
+------------------------------------------------------*/
+.widget_container .tagcloud a {
+    display: block;
+    float: left;
+    font-size: 14px !important;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    overflow: hidden;
+    padding:4px 12px;
+    transition:all 0.2s ease-in 0s;
+	border:1px solid rgba(127, 127, 127, 0.2);
+}
+.widget_container .tagcloud a:hover{
+	color:#fff;
+  background-color: #ff0000;
+}
+.tagcloud{
+	float: left;
+   }
+.widget_portfolio_gallery ul li{
+	width:70px;
+	height:70px;
+	display:inline;
+	border:none!important;
+	margin:0px!important;
+	padding:0px!important;
+}
+.widget_kaya-portfolio-widget ul li img{
+    max-width: inherit;
+}
+.widget_portfolio_gallery ul li a{
+	display: inline-block;
+	float:left;
+	width:70px;
+	height:70px;
+	margin-bottom:10px;
+	margin-right:10px;
+	
+}
+/* Sidebar Custom Menu */
+#sidebar .sub-menu{
+	border-top: 1px solid rgba(127, 127, 127, 0.1) !important;
+    margin-left: 14px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+#sidebar > ul.menu > li:last-child {
+border-bottom:0px solid rgba(127, 127, 127, 0.1) !important;
+}
+#sidebar ul.menu {
+	width:100%;
+}
+#sidebar .dropcap .description h3, #sidebar .widget_kaya-slider h3, #sidebar .widget_kaya-list-box h3, #sidebar .client_slider_wrapper h3,
+footer .dropcap .description h3, footer .widget_kaya-slider h3, footer .widget_kaya-list-box h3, footer .client_slider_wrapper h3{
+    margin-bottom: 10px !important;
+}

@@ -1,0 +1,146 @@
+version 2.2.5
+====================
+- Header Topbar Section - New opttion "Top Bar Icon Color" is added.
+- Page Title bar - Font Size issued Fixed.
+- Woocommerce General Section - Product Details color Section - Product Price color issue is fixed.
+
+version 2.2.4
+====================
+- Post Slider responsive issue fixed.
+
+version 2.2.3
+====================
+- Search box issue fixed in responsive view.
+- Sub menu issue fixed in category page.
+
+version 2.2.2
+====================
+- Super Sub menu issue fixed.
+- Menu issues fixed in responsive view.
+
+version 2.2.1
+====================
+- Fixed Woocomerce Products issue in search.
+
+version 2.2.0
+====================
+- Sticky menu issue fixed in mobile and Ipad view.
+
+version 2.1.9
+====================
+- Menu responsive issue fixed.
+
+version 2.1.8
+====================
+- Ralated product short description issue fixed.
+
+version 2.1.7
+====================
+- Woocommerce product short description issue fixed.
+
+version 2.1.6
+====================
+- Added an option to add awesome icon to header menu.
+
+version 2.1.5
+====================
+- Updated Woocommerce files.
+- Updated font awesome icons.
+
+version 2.1.4
+====================
+- Updated Woocommerce files.
+- Updated TGM plugin activation file.
+
+version 2.1.3
+====================
+- Changes are done in plugin.
+
+version 2.1.2
+====================
+-- Woocommerce Product variations select box alignment issue fixed.
+-- Customizer panel removing issue fixed.
+
+version 2.1
+====================
+-- "One click demo" installation fixed.
+-- 	Custom meta options issue fixed.
+-- "One click demo" default images missing issue fixed.
+
+version 2.0.9
+====================
+-- Meta box uploading image button issue fixed.
+-- Sidebar styling issue fixed.
+-- Meta box select box issue fixed.
+
+version 2.0.8
+====================
+- Woocommerce product image issue fixed.
+
+version 2.0.7
+====================
+- Footer social icons alignment issue fixed.
+- fullwidth stretch issue fixed in boxed layout.
+
+version 2.0.6
+====================
+- Sub Child menu issue fixed.
+
+version 2.0.5
+====================
+- Sticky Header issue fixed.
+version 2.0.4
+====================
+- Added an option to disable the prettyphoto thumbnail images in general settings.
+- Added an option to disable the prettyphoto Title in general settings.
+- Added an option to disable the prettyphoto social icons in general settings.
+- Right Section Content Adding issue fixed.
+- woocommerce default image issue fixed.
+- Updated Dashboard icons for client,testimonial,toggle tabs,team and kaya post slider.
+- slider nav buttons disable issue fixed.
+- Primary navigation menu issue in one click demo issue fixed.
+- Top navigation menu issue fixed in one click demo issue fixed.
+- Yoast seo plugin Campatibility.
+- Slider Dots Navigation Buttons disable issue fixed.
+- Added video tutorial to create header slider using kaya posts.
+- Added video tutorial for theme activation,plugin installation and importing one click demo at petstore options > one click demo.
+- Added video tutorial for adding images after importing  one click demo at petstore options > one click demo.
+- Woocommerce "Adde to cart" not displaying issue fixed.
+- Woocommerce updated files.
+- Video not playing when video fullscreen height not selected issue fixed.
+
+version 2.0.3
+====================
+- Added a new Custom Sidebar option in theme customizer> Woocommerce General Section to add generated sidebars for product category Menu.
+- Added a new line height option for body in theme customizer>typography section>font settings.
+- Added new option to remove shop page short content in themecustomizer>woocommerce page section.
+- Added a new line height options for all header tags in theme customizer>typography section>font settings.
+- sticky menu disturbing in boxed layout issue fixed.
+- Importer issue after importing "one click demo" issue fixed.
+- Changed total theme customizer styles.
+- Default text is displaying when text box and textarea is empty in theme customizer isssue fixed.
+- shop page istem padding issue fixed.
+- Added video tutorial to know how to use page footer in theme customizer.
+- default image added for header background video.
+- Errors showing when sidebar generated issue fixed.
+- Mobile/Ipad header background color will be applied from header section>header settings in theme customizer.
+- Added an option for mobile menu icon "Mobile menu icon color" in themecustomizer>menu link color settings.
+- text logo "Select Logo Font Family" option not working issue fixed.
+- logo font size not changing in customizer issue fixed.
+- "Select Tag Line Font Family" not working issue fixed.
+- All logo tagline settings not working in theme customizer issue fixed.
+- All logo setttings Not working in theme customizer issue fixed.
+- Added video tutorial in theme customizer>different menu color settings.
+- Added video tutorial in theme customizer> header top bar section to create top header navigation.
+- Disable Most Footer Bottom option not working in theme customizer issue fixed.
+version 2.0.2
+====================
+  - Slider not working in PHP Version 5.4.24 Issue fixed.
+  
+version 2.0.1
+====================
+  - Slider not working when "Ultimate Addons for SiteOrigin" plugin is istalled issue fixed.
+
+version 2.0
+====================
+	Re-designed from scratch as a poetaster concept theme.

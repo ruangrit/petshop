@@ -1,0 +1,71 @@
+version 2.1.1
+====================
+- Medium Blog Alignment issue Fixed.
+- Masonry Blog Backgound Color and Pagination Alignmnet issue fixed.
+- Icon Box Align None Read More Button Issue Fixed.
+- Image Gallery 5 Column Alignment Issue Fixed.
+- Shop Product List Price Color Issue Fixed.
+- Image Box Responsive Issue Fixed.
+- Product Image Alignment Issue Fixed.
+- Shop Cart Icon Alignment Issue Fixed.
+- Shop Detail Page Tab Alignment Issued Fixed for Responsive. 
+- Responsive Shop detail Page "Showing all results and Default Sorting" Alignment Fixed.
+- Top Header Responsive Alignment Fixed.
+- Product Rating Responsive Alignment Fixed.
+- Blog Sidebar Issue Fixed.
+- Slider Responsive Issue Fixed.
+
+version 2.1.0
+====================
+- Product slider widget short description issue fixed.
+
+version 2.0.9
+====================
+- Image gallery widget alignment issue fixed.
+- Updated font awesome icons.
+
+version 2.0.8
+====================
+- Added an option "Open Link In New Tab" in Petstore - Banner widget.
+
+version 2.0.7
+====================
+- "Petstore - Image With Overlay Text" widget default image missing in "one click demo" issue fixed.
+
+version 2.0.6
+====================
+- Added Meta box plugin by default.
+
+version 2.0.5
+====================
+- Image gallery widget columns issue fixed.
+
+version 2.0.4
+====================
+- Owl carousel slider disturbing while page loading issue fixed.
+
+version 2.0.3
+====================
+- Wp color picker issue fixed.
+
+version 2.0.2
+====================
+- Addded new option to change success message text in contact form widget.
+- Image gallery widget thumbnail images issue fixed.
+- "Disable Flip box Hover Animation" option not working in Flipping boxes widget issue fixed.
+- Updated icons in iconbox widget.
+- Image gallery slider disturbing while loading issue fixed and loader.
+- Added video tutorial for  image gallery widget.
+- Added video tutorial for icon box widget.
+- Added video tutorial for banner widget.
+- Added video tutorial for toggle tabs widget.
+- Added video tutorial for Custom title widget.
+
+version 2.0.1
+====================
+	- Added New options to contact form widget to change placeholder text in contact form fields.
+	- Contact form submitted fields reset issue fixed.
+	
+version 2.0
+====================
+	Re-designed from scratch
