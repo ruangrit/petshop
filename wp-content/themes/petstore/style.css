@@ -140,6 +140,7 @@ Tags: white, two-columns, custom-header, custom-background, threaded-comments, s
     display: block;
     margin-top: 7px;
     margin-bottom: 0;
+    width: 175px;
 }
 .logo_tag_line {
     display: block;
